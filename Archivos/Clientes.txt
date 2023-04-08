@@ -1,0 +1,4 @@
+12345;Juan Perez;Las Cotorras;12;123;45678;230423;3 
+123435;Pedro Solis;Las Palmeritas;45;123;3456;270523;5
+12345;Maria;Las Cotorras;12;123;45678;230423;3 
+123456;jose;Las Cotorras;10;123;45678;230423;3 
