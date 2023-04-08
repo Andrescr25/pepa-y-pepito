@@ -75,6 +75,7 @@ def Insercionn():
     if opcion==8:
        print("Has escogido Medicacion")
 
+Cris playo
 
 
 
